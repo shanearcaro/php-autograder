@@ -195,7 +195,7 @@ function storeQuestion() {
                     storeTestCases("Recursion", "Recursion", questionId);
                     break;
             }
-            window.location.href = "/teacher";
+            //window.location.href = "/teacher";
         }
     }
     ajax.open("POST", "/post", true);

@@ -21,6 +21,7 @@ get('/exam',                    '/views/student/takeExam.php');
 get('/teacher',                 '/views/teacher/teacher.php');
 get('/create',                  '/views/teacher/createExam.php');
 get('/questions',               '/views/teacher/createQuestion.php');
+get('/review',                  'views/teacher/reviewExam.php');
 
 // Teacher requests
 // TODO

@@ -12,6 +12,7 @@
     <?php include(dirname(__FILE__, 3) . "/style/includes/stylesheets.php");?>
     <script type="text/javascript" src="scripts/render-table.js??<?php echo time();?>"></script>
     <script type="text/javascript" src="scripts/authenticate-user.js??<?php echo time();?>"></script>
+    <script type="text/javascript" src="scripts/review.js??<?php echo time();?>"></script>
     <title>Teacher Portal</title>
 </head>
 <body onload="onLoad()">
